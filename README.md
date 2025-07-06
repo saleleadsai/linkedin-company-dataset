@@ -3,7 +3,6 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/saleleadsai/linkedin-company-dataset?style=social)](https://github.com/saleleadsai/linkedin-company-dataset/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/saleleadsai/linkedin-company-dataset?style=social)](https://github.com/saleleadsai/linkedin-company-dataset/network/)
 [![Vistors](https://visitor-badge.laobi.icu/badge?page_id=saleleadsai.linkedin-company-dataset&title=Visitors)](https://github.com/saleleadsai/linkedin-company-dataset)
-[![License](https://img.shields.io/github/license/saleleadsai/linkedin-company-dataset?label=License)](https://mit-license.org/)
 
 Explore Over 5 Million LinkedIn Company Profiles with Our Comprehensive Dataset
 
