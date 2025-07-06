@@ -20,7 +20,7 @@ Unlock valuable business insights with access to a dataset of more than **5M+ Li
   </a>
 </div>
 
-### Example data
+## Example data
 
 ```json
 {
