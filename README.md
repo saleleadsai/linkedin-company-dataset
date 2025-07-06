@@ -1,8 +1,15 @@
 # LinkedIn Company Profile Dataset
 
+[![GitHub Repo stars](https://img.shields.io/github/stars/saleleadsai/linkedin-company-dataset?style=social)](https://github.com/saleleadsai/linkedin-company-dataset/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/saleleadsai/linkedin-company-dataset?style=social)](https://github.com/saleleadsai/linkedin-company-dataset/network/)
+[![Vistors](https://visitor-badge.laobi.icu/badge?page_id=saleleadsai.linkedin-company-dataset&title=Visitors)](https://github.com/saleleadsai/linkedin-company-dataset)
+[![License](https://img.shields.io/github/license/saleleadsai/linkedin-company-dataset?label=License)](https://mit-license.org/)
+
 Explore Over 5 Million LinkedIn Company Profiles with Our Comprehensive Dataset
 
-Unlock valuable business insights with access to a dataset of more than **5M+ LinkedIn company profiles**. Each entry includes key company details such as industry, size, location, employee count, specialties, and more. Whether you're conducting market research, building B2B lead lists, or training AI models, this dataset provides a rich foundation for data-driven decision-making: https://huggingface.co/datasets/SaleleadsOrg/linkedin-company-profile
+Unlock valuable business insights with access to a dataset of more than **5M+ LinkedIn company profiles**. Each entry includes key company details such as industry, size, location, employee count, specialties, and more. Whether you're conducting market research, building B2B lead lists, or training AI models, this dataset provides a rich foundation for data-driven decision-making
+
+> https://huggingface.co/datasets/SaleleadsOrg/linkedin-company-profile
 
 ## Sponsors
 <div align="center">
@@ -13,7 +20,6 @@ Unlock valuable business insights with access to a dataset of more than **5M+ Li
     </div>
   </a>
 </div>
-
 
 ### Example data
 
