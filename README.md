@@ -15,7 +15,7 @@ Unlock valuable business insights with access to a dataset of more than **5M+ Li
   <a href="https://saleleads.ai" target="_blank">
     <img src="https://github.com/saleleadsai/linkedin-company-dataset/blob/main/logo.jpeg" width="100" alt="saleleads">
     <div>
-      <b>Saleleads</b> is the fastest and most stable LinkedIn API available. Provides seamless integration and reliable performance for all your LinkedIn data needs. And don't need to use your cookie or worry about proxy.
+      <b>Saleleads</b> is the fastest and most stable LinkedIn Scraper API available. Provides seamless integration and reliable performance for all your LinkedIn data needs. And don't need to use your cookie or worry about proxy.
     </div>
   </a>
 </div>
